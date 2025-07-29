@@ -1,6 +1,6 @@
 # QCR Marine Robotics Seminar Series
 
-Welcome to the QUT Centre for Robotics, Marine Robotics Seminar Series — a community-driven initiative to bring together researchers, engineers, and students working at the intersection of marine science and robotics. With marine ecosystems under urgent and increasing pressure, it's never been more critical to accelerate the development and deployment of innovative technologies that can monitor, protect, and restore our oceans. Our sessions span a range of topics, from underwater computer vision and SLAM, to simulation tools, hardware design, and field deployments. Join us as we dive deep (haha) into the latest research shaping the future of marine robotics.
+Welcome to the QUT Centre for Robotics, Marine Robotics Seminar Series — an initiative to bring together researchers, engineers, and students working at the intersection of marine science and robotics. With marine ecosystems under urgent and increasing pressure, it's never been more critical to accelerate the development and deployment of innovative technologies that can monitor, protect, and restore our oceans. Our sessions span a range of topics, from underwater computer vision and SLAM, to simulation tools, hardware design, and field deployments. Join us as we dive deep (haha) into the latest research shaping the future of marine robotics.
 
 Watch this space for future seminars!
 
