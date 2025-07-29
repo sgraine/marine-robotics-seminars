@@ -10,7 +10,7 @@ Watch this space for future seminars!
 
 | Date       | Speaker(s)                           | Affiliation | Title                                                                 | Recording |  
 |------------|---------------------------------------|---------------------|------------------------------------------------------------------------|-----------|  
-| 30/01/2025 | Peter Smith and Alec Tutin           | QUT     | *Marine Robotic Simulators – Prevent Your AXV from a Watery Demise*   | [YouTube](#) |  
+| 30/01/2025 | Peter Smith and Alec Tutin           | QUT     | *Marine Robotic Simulators – Prevent Your AXV from a Watery Demise*   | [YouTube](https://youtu.be/-hD6KU0cWq0) |  
 | 15/05/2025 | Jonathan Sauder                      | EPFL    | *Scalable Semantic 3D Mapping of Coral Reefs with Deep Learning* | [YouTube](https://youtu.be/xFnNk5go8zY) |
 
 ---
