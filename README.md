@@ -10,13 +10,27 @@ Watch this space for future seminars!
 
 | Date       | Speaker(s)                           | Affiliation | Title                                                                 | Recording |  
 |------------|---------------------------------------|---------------------|------------------------------------------------------------------------|-----------|  
+| 31/07/2025 | Dr Hui Sheng Lim           | CSIRO     | *Marine autonomy: From algorithm to observations*   | [YouTube](https://www.youtube.com/watch?v=NBbj07y9U4w) |  
 | 15/05/2025 | Jonathan Sauder                      | EPFL    | *Scalable Semantic 3D Mapping of Coral Reefs with Deep Learning* | [YouTube](https://youtu.be/xFnNk5go8zY) |
 | 30/01/2025 | Peter Smith and Alec Tutin           | QUT     | *Marine Robotic Simulators – Prevent Your AXV from a Watery Demise*   | [YouTube](https://youtu.be/-hD6KU0cWq0) |  
+
+
 
 
 ---
 
 ### ✨ Past Speaker Bios & Abstracts
+
+
+---
+
+#### **31/7/2025 — Dr Hui Sheng Lim, CSIRO**
+
+**Bio:**  
+Hui Sheng is a Hobart-based research engineer with a PhD in marine engineering. He specialises in developing autonomous marine systems for ocean observations, currently working with the Autonomous Sensors Future Science Platform at CSIRO. With a strong background in engineering and computational research in the maritime sector, Hui Sheng has a track record in developing and optimising AI applications for crewed and uncrewed marine systems, as well as modelling and simulating marine vehicles and ocean environments. Hui Sheng has led and contributed to a range of field deployments, algorithm development efforts, and collaborative research projects, with a focus on real-world impact and sustainable ocean observations. 
+
+**Abstract:**  
+The demand for timely, high-resolution ocean data is becoming increasingly critical, driven by climate change, the need for improved resource management and environmental monitoring of extreme events. Autonomous marine systems are emerging as a transformative solution. These systems enabling persistent, wide-area observations with reduced human input, offering new capabilities for real-time, adaptive decision-making at sea.   In this talk, I’ll share recent developments in marine robotics from CSIRO’s Autonomous Sensors Future Science Platform, focusing on mission planning algorithms and field-ready autonomy. Furthermore, it will cover the development of adaptive planning techniques, including variants of Monte Carlo Tree Search, evaluated against baseline behaviours across different environmental scenarios. This work is embedded within broader system development, including vehicle integration, onboard autonomy, and fleet operations.  I will also highlight science-driven field deployments where these systems can be applied, such as autonomous surveys for water quality monitoring and fish stock assessments. Through this integrated effort, we aim to advance scalable, adaptive solutions for real-time decision-making in complex oceanographic settings.
 
 ---
 
