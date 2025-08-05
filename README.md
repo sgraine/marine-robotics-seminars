@@ -12,6 +12,7 @@ Watch this space for future seminars!
 |------------|---------------------------------------|---------------------|------------------------------------------------------------------------|-----------|  
 | 31/07/2025 | Dr Hui Sheng Lim           | CSIRO     | *Marine autonomy: From algorithm to observations*   | [YouTube](https://www.youtube.com/watch?v=NBbj07y9U4w) |  
 | 15/05/2025 | Jonathan Sauder                      | EPFL    | *Scalable Semantic 3D Mapping of Coral Reefs with Deep Learning* | [YouTube](https://youtu.be/xFnNk5go8zY) |
+| 13/03/2025 | Prof Rod Connolly          | Griffith University     | *Improved monitoring of marine ecosystems with underwater computer vision*   | [YouTube](https://youtu.be/NWp17plJTSg) |  
 | 30/01/2025 | Peter Smith and Alec Tutin           | QUT     | *Marine Robotic Simulators – Prevent Your AXV from a Watery Demise*   | [YouTube](https://youtu.be/-hD6KU0cWq0) |  
 
 
@@ -43,6 +44,12 @@ Jonathan Sauder is a PhD student at the École Polytechnique Fédérale de Lausa
 In light of the existential threat to coral reefs worldwide due to human activity, innovative monitoring strategies are demanded that are efficient, standardized, scalable, and economical. Mapping coral reefs from underwater videos in real time with consumer hardware could lead to the next generation of coral monitoring tools. However, coral reefs pose challenging conditions for 3D computer vision algorithms: the color degradation and blur induced by the water column, flickering caustics from sunlight hitting the wavy surface, and many moving or swaying objects (e.g. fish) often lead established systems to fail.
 
 Self-supervised monocular SLAM emerges as a remedy, allowing to rapidly and robustly map large portions of reefs with cheap cameras without training on any ground-truth 3D information. An extension of this idea can be used to enhance existing imagery and make it suitable for conventional 3D mapping pipelines, which in turn can be used to create large-scale 3D datasets for supervised 3D foundation models. This translates to a real-world 3D semantic mapping system that is implemented in 6 countries of the Red Sea, used to analyze a steady stream of monitoring data from dozens of reef sites.
+
+---
+#### **13/03/2025 — Prof Rod Connolly, Griffith University**
+
+**Bio:**  
+Professor Rod Connolly is the Director of the Coast and Marine Research Centre at Griffith University and Director of the Global Wetlands Project.  He is an experienced marine scientist using automated monitoring technologies to measure fish abundance and ecosystem health on reefs, seagrass meadows, saltmarshes and mangroves.  Rod’s key research interests span deep learning analysis of marine imagery; ecology of coral reefs, seagrass and mangroves; and effects of climate variability and pollution on marine ecosystems.
 
 ---
 
