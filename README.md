@@ -10,7 +10,7 @@ Watch this space for future seminars!
 
 | Date       | Speaker(s)                           | Affiliation | Title                                                                 | Recording |  
 |------------|---------------------------------------|---------------------|------------------------------------------------------------------------|-----------|  
-| 01/09/2025 | Dr Gideon Billings          | Australian Centre for Robotics (ACFR), University of Sydney     | *Autonomous Underwater Systems for The Exploration of Extreme Ocean Environments*   | [Coming Soon]() |  
+| 01/09/2025 | Dr Gideon Billings          | Australian Centre for Robotics (ACFR), University of Sydney     | *Autonomous Underwater Systems for The Exploration of Extreme Ocean Environments*   | [YouTube](https://youtu.be/7CKnozcEi0c) |  
 | 31/07/2025 | Dr Hui Sheng Lim           | CSIRO     | *Marine autonomy: From algorithm to observations*   | [YouTube](https://www.youtube.com/watch?v=NBbj07y9U4w) |  
 | 15/05/2025 | Jonathan Sauder                      | EPFL    | *Scalable Semantic 3D Mapping of Coral Reefs with Deep Learning* | [YouTube](https://youtu.be/xFnNk5go8zY) |
 | 13/03/2025 | Prof Rod Connolly          | Griffith University     | *Improved monitoring of marine ecosystems with underwater computer vision*   | [YouTube](https://youtu.be/NWp17plJTSg) |  
@@ -25,6 +25,13 @@ Watch this space for future seminars!
 
 ---
 
+Watch this space! Or send me an email at sg.raine@qut.edu.au if you don't want to miss out on future seminars. 
+
+---
+
+### ✨ Past Speaker Bios & Abstracts
+
+---
 #### **01/09/2025 — Dr Gideon Billings, Australian Centre for Robotics (ACFR), University of Sydney**
 
 **Bio:**  
@@ -32,14 +39,6 @@ Before joining the ACFR as a Research Fellow, Gideon completed his PhD in Roboti
 
 **Abstract:**  
 From the deep ice shelves of Antarctica to the subsurface oceans of Europa and Enceladus, vast oceanic environments remain largely unexplored yet hold keys to understanding global climate dynamics and the potential for extraterrestrial life. While autonomous underwater vehicles can unlock access to these remote environments, developing robotic systems capable of operating in such extremes presents immense technical challenges. These platforms must rely on local sensors to interpret the scene, plan their motions, collect samples and complete other mission tasks fully autonomously, within completely unknown environments. This talk presents two research projects that advance autonomous underwater robotic capabilities for extreme environment exploration. The first project, funded by NASA, developed autonomous systems for exploring hydrothermal vent environments as terrestrial analogues for potential Europa missions. My contributions focused on perception and control algorithms that enable automated sample collection using remotely operated vehicles. This work culminated in successful field deployment at Kolumbo, an active submarine volcano in the Aegean Sea, demonstrating autonomous sample collection in the deep ocean. The second project involved modifying a Slocum Autonomous Underwater Glider to enable efficient long-range surveys beneath ice shelves. By enhancing the platform's navigation and sensing capabilities, we developed a self-sufficient system capable of extended autonomous operation in challenging under-ice environments.
-
-**Register HERE:** 
-[Zoom](http://bit.ly/3HOv8S5)
-
----
-
-### ✨ Past Speaker Bios & Abstracts
-
 
 ---
 
