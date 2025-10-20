@@ -10,7 +10,7 @@ Watch this space for future seminars!
 
 | Date       | Speaker(s)                           | Affiliation | Title                                                                 | Recording |  
 |------------|---------------------------------------|---------------------|------------------------------------------------------------------------|-----------|  
-| 20/10/2025 | Dr Julie Vercelloni         | Australian Institute of Marine Science     | *AI in coral reef monitoring: The good, the bad and the future*   | Coming soon, or register here to join on Zoom: http://bit.ly/4ogVsUu |  
+| 20/10/2025 | Dr Julie Vercelloni         | Australian Institute of Marine Science     | *AI in coral reef monitoring: The good, the bad and the future*   | [YouTube](https://youtu.be/b0S6FmCddZA) |  
 | 01/09/2025 | Dr Gideon Billings          | Australian Centre for Robotics (ACFR), University of Sydney     | *Autonomous Underwater Systems for The Exploration of Extreme Ocean Environments*   | [YouTube](https://youtu.be/7CKnozcEi0c) |  
 | 31/07/2025 | Dr Hui Sheng Lim           | CSIRO     | *Marine autonomy: From algorithm to observations*   | [YouTube](https://www.youtube.com/watch?v=NBbj07y9U4w) |  
 | 15/05/2025 | Jonathan Sauder                      | EPFL    | *Scalable Semantic 3D Mapping of Coral Reefs with Deep Learning* | [YouTube](https://youtu.be/xFnNk5go8zY) |
@@ -23,14 +23,6 @@ Watch this space for future seminars!
 
 ### 👀 Upcoming Speaker Bios & Abstracts
 
----
-#### **20/10/2025 — Dr Julie Vercelloni, Australian Institute of Marine Science**
-
-**Bio:** 
-Julie’s research is at the forefront of integrating cutting-edge technologies, such as machine learning, virtual reality, and advanced Bayesian statistics to address complex challenges in coral reef conservation. She has been instrumental in projects like Virtual Reef Diver and ReefCloud, which integrate AI technology to analyse reef health for large-scale monitoring. She is at the forefront of combining AI application with advanced Bayesian statistics to analyse change and quantify the relative contribution of underlying drivers. Her work exemplifies the fusion of ecological expertise with technological innovation that breaks the barriers of ‘proof-of-concept’, providing valuable insights into the drivers of ecosystem change and informing conservation strategies.
-
-**Abstract:** 
-This talk will present recent insights from integrating AI techniques into coral reef monitoring programs, highlighting both the benefits and limitations for reef conservation, and outlining directions for future research.
 
 
 ---
@@ -40,6 +32,16 @@ Watch this space! Or send me an email at sg.raine@qut.edu.au if you don't want t
 ---
 
 ### ✨ Past Speaker Bios & Abstracts
+
+---
+
+#### **20/10/2025 — Dr Julie Vercelloni, Australian Institute of Marine Science**
+
+**Bio:** 
+Julie’s research is at the forefront of integrating cutting-edge technologies, such as machine learning, virtual reality, and advanced Bayesian statistics to address complex challenges in coral reef conservation. She has been instrumental in projects like Virtual Reef Diver and ReefCloud, which integrate AI technology to analyse reef health for large-scale monitoring. She is at the forefront of combining AI application with advanced Bayesian statistics to analyse change and quantify the relative contribution of underlying drivers. Her work exemplifies the fusion of ecological expertise with technological innovation that breaks the barriers of ‘proof-of-concept’, providing valuable insights into the drivers of ecosystem change and informing conservation strategies.
+
+**Abstract:** 
+This talk will present recent insights from integrating AI techniques into coral reef monitoring programs, highlighting both the benefits and limitations for reef conservation, and outlining directions for future research.
 
 ---
 #### **01/09/2025 — Dr Gideon Billings, Australian Centre for Robotics (ACFR), University of Sydney**
