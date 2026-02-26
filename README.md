@@ -10,7 +10,7 @@ Watch this space for future seminars!
 
 | Date       | Speaker(s)                           | Affiliation | Title                                                                 | Recording |  
 |------------|---------------------------------------|---------------------|------------------------------------------------------------------------|-----------|  
-| 26/02/2026 | Sergei Nozdrenkov         | Wildflow     | *Closing the Loop: From 3D Sensing to Reef Restoration*   | [Register here to join](https://tinyurl.com/d6smjejs) |  
+| 26/02/2026 | Sergei Nozdrenkov         | Wildflow     | *Closing the Loop: From 3D Sensing to Reef Restoration*   | [YouTube](https://www.youtube.com/watch?v=DPu6MKkDYow) |  
 
 
 ## 📅 Seminar Schedule 2025
@@ -31,13 +31,6 @@ Watch this space for future seminars!
 ### 👀 Upcoming Speaker Bios & Abstracts
 
 
-#### **26/02/2026 — Sergei Nozdrenkov, Wildflow**
-
-**Bio:** 
-Sergei Nozdrenkov is the founder of Wildflow, an engineering startup building the data and AI stack to model the biosphere, starting with coral reefs. Previously, he spent six years at Google, where he was a founding engineer on a biodiversity moonshot at X, Alphabet's Moonshot Factory. There, he applied machine learning to insect biodiversity, specifically focusing on pollinator health and computational pest management. His background spans large-scale distributed systems (Google Ads) and geospatial data processing (Google Maps). Sergei approaches nature through an engineering lens - aiming to increase the information bandwidth between humans and the biosphere to drive effective, scalable restoration. He is also a passionate freediver.
-
-**Abstract:** 
-While the volume of nature data is skyrocketing, we still lack the "crystal ball" needed to understand complex ecosystem dynamics and drive effective restoration. This seminar unpacks the engineering challenges of building a "digital nervous system" for the biosphere, treating reef restoration as a closed-loop control problem: Measure, Model, Act. The discussion centers on Wildflow’s technical pipeline, moving from traditional photogrammetry to high-fidelity 3D Gaussian Splatting capable of visualizing massive reef-scale datasets in the browser, and outlines the roadmap from these digital twins to multimodal foundation models. Ultimately, the goal is to bridge the gap between sensing and action, using these insights to guide targeted, localized interventions - optimizing everything from restoration site selection and coral outplanting strategies to predator control and more.
 
 ---
 
@@ -46,6 +39,14 @@ Watch this space! Or send me an email at sg.raine@qut.edu.au if you don't want t
 ---
 
 ### ✨ Past Speaker Bios & Abstracts
+
+#### **26/02/2026 — Sergei Nozdrenkov, Wildflow**
+
+**Bio:** 
+Sergei Nozdrenkov is the founder of Wildflow, an engineering startup building the data and AI stack to model the biosphere, starting with coral reefs. Previously, he spent six years at Google, where he was a founding engineer on a biodiversity moonshot at X, Alphabet's Moonshot Factory. There, he applied machine learning to insect biodiversity, specifically focusing on pollinator health and computational pest management. His background spans large-scale distributed systems (Google Ads) and geospatial data processing (Google Maps). Sergei approaches nature through an engineering lens - aiming to increase the information bandwidth between humans and the biosphere to drive effective, scalable restoration. He is also a passionate freediver.
+
+**Abstract:** 
+While the volume of nature data is skyrocketing, we still lack the "crystal ball" needed to understand complex ecosystem dynamics and drive effective restoration. This seminar unpacks the engineering challenges of building a "digital nervous system" for the biosphere, treating reef restoration as a closed-loop control problem: Measure, Model, Act. The discussion centers on Wildflow’s technical pipeline, moving from traditional photogrammetry to high-fidelity 3D Gaussian Splatting capable of visualizing massive reef-scale datasets in the browser, and outlines the roadmap from these digital twins to multimodal foundation models. Ultimately, the goal is to bridge the gap between sensing and action, using these insights to guide targeted, localized interventions - optimizing everything from restoration site selection and coral outplanting strategies to predator control and more.
 
 ---
 
@@ -58,6 +59,7 @@ Julie’s research is at the forefront of integrating cutting-edge technologies,
 This talk will present recent insights from integrating AI techniques into coral reef monitoring programs, highlighting both the benefits and limitations for reef conservation, and outlining directions for future research.
 
 ---
+
 #### **01/09/2025 — Dr Gideon Billings, Australian Centre for Robotics (ACFR), University of Sydney**
 
 **Bio:**  
