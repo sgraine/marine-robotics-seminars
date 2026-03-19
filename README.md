@@ -10,6 +10,7 @@ Watch this space for future seminars!
 
 | Date       | Speaker(s)                           | Affiliation | Title                                                                 | Recording |  
 |------------|---------------------------------------|---------------------|------------------------------------------------------------------------|-----------|  
+| 19/03/2026 | Dr Vincent Raoult         | Griffith University     | *The future of marine management is now: drones, ROVs, and automated surface vessels*   | Not Recorded |  
 | 26/02/2026 | Sergei Nozdrenkov         | Wildflow     | *Closing the Loop: From 3D Sensing to Reef Restoration*   | [YouTube](https://www.youtube.com/watch?v=DPu6MKkDYow) |  
 
 
@@ -39,6 +40,16 @@ Watch this space! Or send me an email at sg.raine@qut.edu.au if you don't want t
 ---
 
 ### ✨ Past Speaker Bios & Abstracts
+
+#### **19/03/2026 — Dr Vincent Raoult, Griffith University**
+
+**Bio:** 
+Vincent is a marine ecologist with a broad interest in how ecological processes can be used to achieve better conservation and management of threatened communities. Vincent has strong interests in fisheries management, with a particular focus on sharks and rays. He strives to develop novel methodologies to answer or improve on numerous research issues using emerging technologies like drones and remotely operated underwater vehicles (ROVs). Vincent has studied a variety of environments, from terrestrial aquaria to coral reefs to remote seas in Tasmania.
+
+**Abstract:** 
+Our oceans are in a state of rapid and widespread change. This requires marine management to move beyond traditional, human-driven survey approaches that are costly and less efficient. In this seminar I'll discuss my experience as an ecologist using affordable modern remotely piloted tools to answer general management questions, how they compare to human-driven approaches, and their current and future integration in fisheries management and industry. I'll discuss their applications for assessing fisheries bycatch impacts, coral reef monitoring, and sea cucumber fishery management, including some integration with visual machine learning approaches. 
+
+---
 
 #### **26/02/2026 — Sergei Nozdrenkov, Wildflow**
 
