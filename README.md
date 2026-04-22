@@ -10,6 +10,7 @@ Watch this space for future seminars!
 
 | Date       | Speaker(s)                           | Affiliation | Title                                                                 | Recording |  
 |------------|---------------------------------------|---------------------|------------------------------------------------------------------------|-----------|  
+| 30/04/2026 | Quick Fire Talks         | QUT Centre for Robotics    | *Quick Fire Talks*   | Recording Coming Soon |  
 | 19/03/2026 | Dr Vincent Raoult         | Griffith University     | *The future of marine management is now: drones, ROVs, and automated surface vessels*   | Not Recorded |  
 | 26/02/2026 | Sergei Nozdrenkov         | Wildflow     | *Closing the Loop: From 3D Sensing to Reef Restoration*   | [YouTube](https://www.youtube.com/watch?v=DPu6MKkDYow) |  
 
@@ -26,20 +27,39 @@ Watch this space for future seminars!
 | 30/01/2025 | Peter Smith and Alec Tutin           | QUT     | *Marine Robotic Simulators – Prevent Your AXV from a Watery Demise*   | [YouTube](https://youtu.be/-hD6KU0cWq0) |  
 
 
+---
+
+### Upcoming Speaker Bios & Abstracts
+
+#### **30/04/2026 — QCR Quick Fire Talks**
+
+**Faye Diederiks** 
+
+AI-powered coral reef monitoring: what we monitor and why
+
+I’m a coral ecologist interested in finding ways to upscale and improve reef monitoring and management using AI and robotics. 
+
+**Dr Emilio Olivastri** 
+
+BommieToolkit: Enabling Scalable Coral Reef Monitoring through Automated 3D Reconstruction
+
+Dr. Emilio Olivastri is a Postdoctoral Research Fellow at QUT’s Centre for Robotics, where he focuses on underwater vision, robust perception, and scene understanding for coral reef monitoring. His research lies at the intersection of computer vision and SLAM, with a particular emphasis on challenging, real-world environments. He combines classical optimisation techniques with learned approaches to develop robust and practical solutions for robotics applications.
+
+**Beverley Gorry** 
+
+Long-Term Multi-Session 3D Reconstruction Under Substantial Appearance Change
+
+Beverley Gorry is a PhD researcher at the QUT Centre for Robotics, where she focuses on using computer vision to enable reliable change detection in dynamic, unstructured underwater environments such as coral reefs. Her work brings together Visual Place Recognition (VPR) and Structure from Motion (SfM), with an emphasis on long-term, multi-session 3D reconstruction under substantial appearance change.
+
 
 ---
 
-### 👀 Upcoming Speaker Bios & Abstracts
-
-
-
----
-
-Watch this space! Or send me an email at sg.raine@qut.edu.au if you don't want to miss out on future seminars. 
+Send me an email at sg.raine@qut.edu.au if you don't want to miss out on future seminars. 
 
 ---
 
 ### ✨ Past Speaker Bios & Abstracts
+
 
 #### **19/03/2026 — Dr Vincent Raoult, Griffith University**
 
