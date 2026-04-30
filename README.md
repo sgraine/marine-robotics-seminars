@@ -10,7 +10,7 @@ Watch this space for future seminars!
 
 | Date       | Speaker(s)                           | Affiliation | Title                                                                 | Recording |  
 |------------|---------------------------------------|---------------------|------------------------------------------------------------------------|-----------|  
-| 30/04/2026 | Quick Fire Talks         | QUT Centre for Robotics    | *Quick Fire Talks*   | Recording Coming Soon |  
+| 30/04/2026 | Quick Fire Talks         | QUT Centre for Robotics    | *Quick Fire Talks*   | [YouTube](https://youtu.be/XPU8GA7BlBY) |  
 | 19/03/2026 | Dr Vincent Raoult         | Griffith University     | *The future of marine management is now: drones, ROVs, and automated surface vessels*   | Not Recorded |  
 | 26/02/2026 | Sergei Nozdrenkov         | Wildflow     | *Closing the Loop: From 3D Sensing to Reef Restoration*   | [YouTube](https://www.youtube.com/watch?v=DPu6MKkDYow) |  
 
@@ -31,7 +31,24 @@ Watch this space for future seminars!
 
 ### Upcoming Speaker Bios & Abstracts
 
+
+
+
+---
+
+Send me an email at sg.raine@qut.edu.au if you don't want to miss out on future seminars. 
+
+---
+
+### ✨ Past Speaker Bios & Abstracts
+
 #### **30/04/2026 — QCR Quick Fire Talks**
+
+**Peter Smith**
+
+Marine Vision for Animal Classification: Challenges & Solutions from QCR Colleagues
+
+Peter is a Senior Research Engineer with a background in robotic simulators and ground control systems apps, especially in the marine domain.
 
 **Faye Diederiks** 
 
@@ -51,15 +68,7 @@ Long-Term Multi-Session 3D Reconstruction Under Substantial Appearance Change
 
 Beverley Gorry is a PhD researcher at the QUT Centre for Robotics, where she focuses on using computer vision to enable reliable change detection in dynamic, unstructured underwater environments such as coral reefs. Her work brings together Visual Place Recognition (VPR) and Structure from Motion (SfM), with an emphasis on long-term, multi-session 3D reconstruction under substantial appearance change.
 
-
 ---
-
-Send me an email at sg.raine@qut.edu.au if you don't want to miss out on future seminars. 
-
----
-
-### ✨ Past Speaker Bios & Abstracts
-
 
 #### **19/03/2026 — Dr Vincent Raoult, Griffith University**
 
