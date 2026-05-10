@@ -10,7 +10,8 @@ Watch this space for future seminars!
 
 | Date       | Speaker(s)                           | Affiliation | Title                                                                 | Recording |  
 |------------|---------------------------------------|---------------------|------------------------------------------------------------------------|-----------|  
-| 30/04/2026 | Quick Fire Talks         | QUT Centre for Robotics    | *Quick Fire Talks*   | [YouTube](https://youtu.be/XPU8GA7BlBY) |  
+| 28/05/2026 | Dr Matteo Contini         | Ifremer, Inria and the University of Montpellier  | *Multi-scale mapping of changes in tropical reefs*   | Coming Soon |  
+| 30/04/2026 | Quick Fire Talks          | QUT Centre for Robotics    | *Quick Fire Talks*   | [YouTube](https://youtu.be/XPU8GA7BlBY) |  
 | 19/03/2026 | Dr Vincent Raoult         | Griffith University     | *The future of marine management is now: drones, ROVs, and automated surface vessels*   | Not Recorded |  
 | 26/02/2026 | Sergei Nozdrenkov         | Wildflow     | *Closing the Loop: From 3D Sensing to Reef Restoration*   | [YouTube](https://www.youtube.com/watch?v=DPu6MKkDYow) |  
 
@@ -32,7 +33,13 @@ Watch this space for future seminars!
 ### Upcoming Speaker Bios & Abstracts
 
 
+#### **28/05/2026 — Dr Matteo Contini, Ifremer, Inria and the University of Montpellier**
 
+**Bio:** 
+Matteo is a researcher at the intersection of Computer Science and Marine Ecology, recently completing his PhD jointly at Ifremer, Inria and the University of Montpellier. With a background in Mathematical Engineering (Politecnico di Milano and école Centrale de Lyon), he specializes in applying computer vision and deep learning to marine data. His work focuses on creating standardized, reproducible workflows for multi-label classification and semantic segmentation, specifically aimed at quantifying ecological changes in tropical reef environments across multiple spatial scales.
+
+**Abstract:** 
+Quantifying biodiversity changes in coral ecosystems remains a significant challenge due to their vast geographical scale and the logistical difficulty of accessing remote sites. This presentation details a multi-scale "upscaling" approach developed during my PhD to automate the monitoring of coral habitats using deep learning models. This method consists in using data collected at fine scale by autonomous boards and sea users to identify habitats and species of interest of some characteristic areas of coral ecosystems. The habitats and species identified at this scale will serve as training sets for algorithms using drone data over larger areas. Again, these drone data will serve as training sets for algorithms using satellite images and thus covering very large spatial areas. I will also discuss the development of reproducible monitoring workflows and the sharing of data following Open Science principles.
 
 ---
 
