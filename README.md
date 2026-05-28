@@ -1,6 +1,10 @@
 # 🌊 QCR Marine Robotics Seminar Series 🤖
 
-Welcome to the QUT Centre for Robotics, Marine Robotics Seminar Series — an initiative to bring together researchers, engineers, and students working at the intersection of marine science and robotics. With marine ecosystems under urgent and increasing pressure, it's never been more critical to accelerate the development and deployment of innovative technologies that can monitor, protect, and restore our oceans. Our sessions span a range of topics, from underwater computer vision and SLAM, to simulation tools, hardware design, and field deployments. Join us as we dive deep (haha) into the latest research shaping the future of marine robotics.
+Welcome to the QUT Centre for Robotics, Marine Robotics Seminar Series — an initiative to bring together researchers, engineers, and students working at the intersection of marine science and robotics.  
+
+With marine ecosystems under urgent and increasing pressure, it's never been more critical to accelerate the development and deployment of innovative technologies that can monitor, protect, and restore our oceans. Our sessions span a range of topics, from underwater computer vision and SLAM, to simulation tools, hardware design, and field deployments. Join us as we dive deep (haha) into the latest research shaping the future of marine robotics.
+
+This seminar series is organised by [Dr Scarlett Raine](https://www.scarlettraine.com).   Send me an email at sg.raine@qut.edu.au if you don't want to miss out on future seminars, or if you would like to express your interest in giving a seminar. 
 
 Watch this space for future seminars!
 
@@ -10,7 +14,9 @@ Watch this space for future seminars!
 
 | Date       | Speaker(s)                           | Affiliation | Title                                                                 | Recording |  
 |------------|---------------------------------------|---------------------|------------------------------------------------------------------------|-----------|  
-| 28/05/2026 | Dr Matteo Contini         | Ifremer, Inria and the University of Montpellier  | *Multi-scale mapping of changes in tropical reefs*   | Coming Soon |  
+| 21/07/2026 | Dr Joshua Mangelson         | Brigham Young Unviersity  | *TBD*   | Coming Soon |  
+| 29/06/2026 | Jordan Pierce         | NOAA | *TBD*   | Coming Soon |  
+| 28/05/2026 | Dr Matteo Contini         | Ifremer, Inria and the University of Montpellier  | *Multi-scale mapping of changes in tropical reefs*   | [YouTube](https://youtu.be/5_ZHdDJ8cdY) |  
 | 30/04/2026 | Quick Fire Talks          | QUT Centre for Robotics    | *Quick Fire Talks*   | [YouTube](https://youtu.be/XPU8GA7BlBY) |  
 | 19/03/2026 | Dr Vincent Raoult         | Griffith University     | *The future of marine management is now: drones, ROVs, and automated surface vessels*   | Not Recorded |  
 | 26/02/2026 | Sergei Nozdrenkov         | Wildflow     | *Closing the Loop: From 3D Sensing to Reef Restoration*   | [YouTube](https://www.youtube.com/watch?v=DPu6MKkDYow) |  
@@ -33,13 +39,13 @@ Watch this space for future seminars!
 ### Upcoming Speaker Bios & Abstracts
 
 
-#### **28/05/2026 — Dr Matteo Contini, Ifremer, Inria and the University of Montpellier**
+#### **29/06/2026 — Jordan Pierce, NOAA **
 
 **Bio:** 
-Matteo is a researcher at the intersection of Computer Science and Marine Ecology, recently completing his PhD jointly at Ifremer, Inria and the University of Montpellier. With a background in Mathematical Engineering (Politecnico di Milano and école Centrale de Lyon), he specializes in applying computer vision and deep learning to marine data. His work focuses on creating standardized, reproducible workflows for multi-label classification and semantic segmentation, specifically aimed at quantifying ecological changes in tropical reef environments across multiple spatial scales.
+Coming Soon
 
 **Abstract:** 
-Quantifying biodiversity changes in coral ecosystems remains a significant challenge due to their vast geographical scale and the logistical difficulty of accessing remote sites. This presentation details a multi-scale "upscaling" approach developed during my PhD to automate the monitoring of coral habitats using deep learning models. This method consists in using data collected at fine scale by autonomous boards and sea users to identify habitats and species of interest of some characteristic areas of coral ecosystems. The habitats and species identified at this scale will serve as training sets for algorithms using drone data over larger areas. Again, these drone data will serve as training sets for algorithms using satellite images and thus covering very large spatial areas. I will also discuss the development of reproducible monitoring workflows and the sharing of data following Open Science principles.
+Coming Soon
 
 ---
 
@@ -48,6 +54,15 @@ Send me an email at sg.raine@qut.edu.au if you don't want to miss out on future 
 ---
 
 ### ✨ Past Speaker Bios & Abstracts
+
+
+#### **28/05/2026 — Dr Matteo Contini, Ifremer, Inria and the University of Montpellier**
+
+**Bio:** 
+Matteo is a researcher at the intersection of Computer Science and Marine Ecology, recently completing his PhD jointly at Ifremer, Inria and the University of Montpellier. With a background in Mathematical Engineering (Politecnico di Milano and école Centrale de Lyon), he specializes in applying computer vision and deep learning to marine data. His work focuses on creating standardized, reproducible workflows for multi-label classification and semantic segmentation, specifically aimed at quantifying ecological changes in tropical reef environments across multiple spatial scales.
+
+**Abstract:** 
+Quantifying biodiversity changes in coral ecosystems remains a significant challenge due to their vast geographical scale and the logistical difficulty of accessing remote sites. This presentation details a multi-scale "upscaling" approach developed during my PhD to automate the monitoring of coral habitats using deep learning models. This method consists in using data collected at fine scale by autonomous boards and sea users to identify habitats and species of interest of some characteristic areas of coral ecosystems. The habitats and species identified at this scale will serve as training sets for algorithms using drone data over larger areas. Again, these drone data will serve as training sets for algorithms using satellite images and thus covering very large spatial areas. I will also discuss the development of reproducible monitoring workflows and the sharing of data following Open Science principles.
 
 #### **30/04/2026 — QCR Quick Fire Talks**
 
