@@ -14,8 +14,8 @@ Watch this space for future seminars!
 
 | Date       | Speaker(s)                           | Affiliation | Title                                                                 | Recording |  
 |------------|---------------------------------------|---------------------|------------------------------------------------------------------------|-----------|  
-| 21/07/2026 | Dr Joshua Mangelson         | Brigham Young Unviersity  | *TBD*   | Coming Soon |  
-| 29/06/2026 | Jordan Pierce         | NOAA | *TBD*   | Coming Soon |  
+| 21/07/2026 | Dr Joshua Mangelson         | Brigham Young University  |  *TBD*  | Coming Soon |  
+| 29/06/2026 | Jordan Pierce         | UCSD | *From in-situ to in-silico: A Brief History of Computer Vision and Coral Reef Ecology*   | [YouTube](https://youtu.be/7uMvp0EYbvo) |  
 | 28/05/2026 | Dr Matteo Contini         | Ifremer, Inria and the University of Montpellier  | *Multi-scale mapping of changes in tropical reefs*   | [YouTube](https://youtu.be/5_ZHdDJ8cdY) |  
 | 30/04/2026 | Quick Fire Talks          | QUT Centre for Robotics    | *Quick Fire Talks*   | [YouTube](https://youtu.be/XPU8GA7BlBY) |  
 | 19/03/2026 | Dr Vincent Raoult         | Griffith University     | *The future of marine management is now: drones, ROVs, and automated surface vessels*   | Not Recorded |  
@@ -39,14 +39,6 @@ Watch this space for future seminars!
 ### Upcoming Speaker Bios & Abstracts
 
 
-#### **29/06/2026 — Jordan Pierce, NOAA **
-
-**Bio:** 
-Coming Soon
-
-**Abstract:** 
-Coming Soon
-
 ---
 
 Send me an email at sg.raine@qut.edu.au if you don't want to miss out on future seminars. 
@@ -55,6 +47,14 @@ Send me an email at sg.raine@qut.edu.au if you don't want to miss out on future 
 
 ### ✨ Past Speaker Bios & Abstracts
 
+
+#### **29/06/2026 — Jordan Pierce, NOAA **
+
+**Bio:** 
+Jordan Pierce is an interdisciplinary scientist specializing in the development of software and AI-driven tools for marine ecology and ocean mapping. He holds a Bachelor of Science in Geography / GIS from Texas A&M University and a Master’s in Oceanography from the University of New Hampshire’s Center for Coastal and Ocean Mapping. With a background spanning computer science, oceanography, and geospatial analysis, Jordan is working to advance machine learning for coral reef analysis and applications of computer vision to marine identification. Jordan is currently a Ph.D. student within the Computer Science department at UCSD, working under Falko Kuester of the Cultural Heritage Engineering Initiative (CHEI).
+
+**Abstract:** 
+Coral reefs face global threats, demanding rapid and scalable monitoring solutions. Traditional in-situ survey methods are highly accurate but limited by depth, time, and human labor. In this talk, we will explore the history documenting the transition to in-silico ecology, where computer vision and machine learning automate visual data analysis. By reviewing seminal works, we will track the pivotal shifts from manual pixel annotation to modern deep learning workflows. Furthermore, we will examine how widespread adoption of these technologies has fundamentally altered existing ecological analysis workflows. Despite these advancements, significant bottlenecks remain, particularly regarding model generalization across diverse geographic regions, out-of-sample distributions, a lack of standardized data pipelines, fragmented resource sharing, and overall scalability. Finally, we will discuss emerging future directions and how these innovations may help solve existing problems.
 
 #### **28/05/2026 — Dr Matteo Contini, Ifremer, Inria and the University of Montpellier**
 
