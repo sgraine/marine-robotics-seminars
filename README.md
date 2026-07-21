@@ -55,7 +55,7 @@ Dr. Joshua Mangelson is an Associate Professor at Brigham Young University. He r
 **Abstract:** 
 Research in marine robotics is uniquely positioned to help us address fundamental challenges to real-world problems in our world.  Examples include (1) coral reef & marine ecosystem monitoring, (2) energy and civil infrastructure inspection and maintenance, and (3) shipping/national defense challenges. My students and I at BYU are working on developing and deploying marine robotic perception, localization, and mapping solutions in each of these domains. In this talk, I will provide an overview of each of our projects within these areas and provide a high-level discussion of on-going work in marine robotic perception, localization, and perception. I will also briefly cover simulation and hardware tools we have developed with the hope of enabling broader participation in marine robotics research. 
 
-#### **29/06/2026 — Jordan Pierce, NOAA **
+#### **29/06/2026 — Jordan Pierce, UCSD **
 
 **Bio:** 
 Jordan Pierce is an interdisciplinary scientist specializing in the development of software and AI-driven tools for marine ecology and ocean mapping. He holds a Bachelor of Science in Geography / GIS from Texas A&M University and a Master’s in Oceanography from the University of New Hampshire’s Center for Coastal and Ocean Mapping. With a background spanning computer science, oceanography, and geospatial analysis, Jordan is working to advance machine learning for coral reef analysis and applications of computer vision to marine identification. Jordan is currently a Ph.D. student within the Computer Science department at UCSD, working under Falko Kuester of the Cultural Heritage Engineering Initiative (CHEI).
