@@ -14,7 +14,7 @@ Watch this space for future seminars!
 
 | Date       | Speaker(s)                           | Affiliation | Title                                                                 | Recording |  
 |------------|---------------------------------------|---------------------|------------------------------------------------------------------------|-----------|  
-| 21/07/2026 | Dr Joshua Mangelson         | Brigham Young University  |  *TBD*  | Coming Soon |  
+| 21/07/2026 | Dr Joshua Mangelson         | Brigham Young University  |  Progress in Marine Robotic Perception, Localization, and Mapping for Ecological Monitoring, Infrastructure Inspection, and Defense  | [YouTube](https://youtu.be/gIizcKAIRbY) |  
 | 29/06/2026 | Jordan Pierce         | UCSD | *From in-situ to in-silico: A Brief History of Computer Vision and Coral Reef Ecology*   | [YouTube](https://youtu.be/7uMvp0EYbvo) |  
 | 28/05/2026 | Dr Matteo Contini         | Ifremer, Inria and the University of Montpellier  | *Multi-scale mapping of changes in tropical reefs*   | [YouTube](https://youtu.be/5_ZHdDJ8cdY) |  
 | 30/04/2026 | Quick Fire Talks          | QUT Centre for Robotics    | *Quick Fire Talks*   | [YouTube](https://youtu.be/XPU8GA7BlBY) |  
@@ -47,6 +47,13 @@ Send me an email at sg.raine@qut.edu.au if you don't want to miss out on future 
 
 ### ✨ Past Speaker Bios & Abstracts
 
+#### **21/07/2026 — Associate Professor Joshua Mangelson, BYU **
+
+**Bio:** 
+Dr. Joshua Mangelson is an Associate Professor at Brigham Young University. He received PhD and Masters degrees in Robotics from the University of Michigan. He then completed a post-doctoral fellowship at Carnegie Mellon University before joining the Electrical and Computer Engineering Department at BYU in 2020. Dr. Mangelson is an expert in marine and field robotic perception, localization, and autonomy. At BYU, he runs the Field Robotic Systems Lab focused on the development and deployment of robotic perception and autonomy in unstructured outdoor environments with a major focus on the marine domain (both at and below the surface). He currently serves as an Associate Editor for IJRR , T-FR, and RA-L and as an Area Chair for RSS. His research has been recognized with various awards including multiple best paper/poster awards as well as the Office of Naval Research Young Investigator Award (in 2024).
+
+**Abstract:** 
+Research in marine robotics is uniquely positioned to help us address fundamental challenges to real-world problems in our world.  Examples include (1) coral reef & marine ecosystem monitoring, (2) energy and civil infrastructure inspection and maintenance, and (3) shipping/national defense challenges. My students and I at BYU are working on developing and deploying marine robotic perception, localization, and mapping solutions in each of these domains. In this talk, I will provide an overview of each of our projects within these areas and provide a high-level discussion of on-going work in marine robotic perception, localization, and perception. I will also briefly cover simulation and hardware tools we have developed with the hope of enabling broader participation in marine robotics research. 
 
 #### **29/06/2026 — Jordan Pierce, NOAA **
 
