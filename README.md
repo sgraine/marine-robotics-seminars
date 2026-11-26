@@ -15,6 +15,7 @@ Watch this space for future seminars!
 | Date       | Speaker(s)                           | Affiliation | Title                                                                 | Recording |  
 |------------|---------------------------------------|---------------------|------------------------------------------------------------------------|-----------|  
 | 26/11/2026 | Dr Brano Kusy        | CSIRO  |  *From pixels to reef decisions: AI for marine ecosystem surveillance*  | [YouTube](https://youtu.be/EmELmlSUrS4) |  
+| 03/08/2026 | Viktor Domazetoski      | University of Exeter and University of Queensland  |  *Responsible AI for Biodiversity Monitoring: Going Beyond Traditional Computer Vision*  | Not Recorded |  
 | 21/07/2026 | Assoc Prof Joshua Mangelson         | Brigham Young University  |  *Progress in Marine Robotic Perception, Localization, and Mapping for Ecological Monitoring, Infrastructure Inspection, and Defense*  | [YouTube](https://youtu.be/gIizcKAIRbY) |  
 | 29/06/2026 | Jordan Pierce         | UCSD | *From in-situ to in-silico: A Brief History of Computer Vision and Coral Reef Ecology*   | [YouTube](https://youtu.be/7uMvp0EYbvo) |  
 | 28/05/2026 | Dr Matteo Contini         | Ifremer, Inria and the University of Montpellier  | *Multi-scale mapping of changes in tropical reefs*   | [YouTube](https://youtu.be/5_ZHdDJ8cdY) |  
@@ -51,11 +52,20 @@ Send me an email at sg.raine@qut.edu.au if you don't want to miss out on future 
 #### **26/11/2026 — Dr Brano Kusy, CSIRO **
 
 **Bio:** 
-Dr Brano Kusy is a Principal Research Scientist at CSIRO, where he leads the Distributed Sensing Systems research group. His research connects energy-efficient sensing, embedded systems, and edge AI, with a focus on human-validated learning and practical systems
- for environmental monitoring.
+Dr Brano Kusy is a Principal Research Scientist at CSIRO, where he leads the Distributed Sensing Systems research group. His research connects energy-efficient sensing, embedded systems, and edge AI, with a focus on human-validated learning and practical systems for environmental monitoring.
 
 **Abstract:** 
 How can millions of underwater images become evidence that marine managers trust? Drawing on crown-of-thorns starfish monitoring on the Great Barrier Reef and seagrass mapping in the Indo-Pacific, this talk explores human-validated learning, ecological calibration, foundation models and energy-efficient field processing, including a semantic search across three million reef images, and their potential to guide more adaptive surveys.
+
+#### **03/08/2026 — Viktor Domazetoski, UQ and University of Exeter **
+
+**Bio:** 
+Viktor Domazetoski is a PhD student within the Biological Sciences (UQ-Exeter) programme, a joint degree between the University of Exeter and the University of Queensland, researching the application of AI for conservation. His research focuses on responsible AI for biodiversity monitoring, aiming to understand the biases of such models, how these biases affect ecological downstream task performance, and how they can be mitigated biases by integrating ecological knowledge in the model. He is also a co-lead of the AI for Conservation group at WILDLABS and collaborates with partners such as the Wildlife Conservation Society, MIT, EPFL and the Macedonian Academy of Sciences and Arts on topics ranging from coral-reef monitoring to remote sensing estimates of urban tree cover.
+
+**Abstract:** 
+Artificial intelligence is rapidly transforming biodiversity monitoring across marine and terrestrial domains, enabling researchers and conservationists to process millions of images in a fraction of the time and resources once required. Yet when these models fail, the errors are often systematic rather than random: certain species, habitats, or observation conditions consistently yield lower accuracy, introducing biases that risk distorting the ecological picture and skewing conservation decisions. 
+
+A key contributing factor is that models are typically built using traditional computer vision approaches that don't fully exploit the ecological and contextual knowledge inherent in the domain. This talk covers two components addressing these challenges. The first part examines systematic biases in camera trap species classification models across site-level, species-level, and observation-level covariates. The second turns to global-scale coral reef monitoring, presenting an approach that incorporates domain knowledge into model design and enables the use of heterogeneous data sources through a concept-bottleneck method.
 
 #### **21/07/2026 — Associate Professor Joshua Mangelson, BYU **
 
