@@ -14,7 +14,8 @@ Watch this space for future seminars!
 
 | Date       | Speaker(s)                           | Affiliation | Title                                                                 | Recording |  
 |------------|---------------------------------------|---------------------|------------------------------------------------------------------------|-----------|  
-| 21/07/2026 | Dr Joshua Mangelson         | Brigham Young University  |  Progress in Marine Robotic Perception, Localization, and Mapping for Ecological Monitoring, Infrastructure Inspection, and Defense  | [YouTube](https://youtu.be/gIizcKAIRbY) |  
+| 26/11/2026 | Dr Brano Kusy        | CSIRO  |  From pixels to reef decisions: AI for marine ecosystem surveillance  | [YouTube](https://youtu.be/EmELmlSUrS4) |  
+| 21/07/2026 | Assoc Prof Joshua Mangelson         | Brigham Young University  |  Progress in Marine Robotic Perception, Localization, and Mapping for Ecological Monitoring, Infrastructure Inspection, and Defense  | [YouTube](https://youtu.be/gIizcKAIRbY) |  
 | 29/06/2026 | Jordan Pierce         | UCSD | *From in-situ to in-silico: A Brief History of Computer Vision and Coral Reef Ecology*   | [YouTube](https://youtu.be/7uMvp0EYbvo) |  
 | 28/05/2026 | Dr Matteo Contini         | Ifremer, Inria and the University of Montpellier  | *Multi-scale mapping of changes in tropical reefs*   | [YouTube](https://youtu.be/5_ZHdDJ8cdY) |  
 | 30/04/2026 | Quick Fire Talks          | QUT Centre for Robotics    | *Quick Fire Talks*   | [YouTube](https://youtu.be/XPU8GA7BlBY) |  
@@ -46,6 +47,15 @@ Send me an email at sg.raine@qut.edu.au if you don't want to miss out on future 
 ---
 
 ### ✨ Past Speaker Bios & Abstracts
+
+#### **26/11/2026 — Dr Brano Kusy, CSIRO **
+
+**Bio:** 
+Dr Brano Kusy is a Principal Research Scientist at CSIRO, where he leads the Distributed Sensing Systems research group. His research connects energy-efficient sensing, embedded systems, and edge AI, with a focus on human-validated learning and practical systems
+ for environmental monitoring.
+
+**Abstract:** 
+How can millions of underwater images become evidence that marine managers trust? Drawing on crown-of-thorns starfish monitoring on the Great Barrier Reef and seagrass mapping in the Indo-Pacific, this talk explores human-validated learning, ecological calibration, foundation models and energy-efficient field processing, including a semantic search across three million reef images, and their potential to guide more adaptive surveys.
 
 #### **21/07/2026 — Associate Professor Joshua Mangelson, BYU **
 
