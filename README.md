@@ -14,8 +14,8 @@ Watch this space for future seminars!
 
 | Date       | Speaker(s)                           | Affiliation | Title                                                                 | Recording |  
 |------------|---------------------------------------|---------------------|------------------------------------------------------------------------|-----------|  
-| 26/11/2026 | Dr Brano Kusy        | CSIRO  |  From pixels to reef decisions: AI for marine ecosystem surveillance  | [YouTube](https://youtu.be/EmELmlSUrS4) |  
-| 21/07/2026 | Assoc Prof Joshua Mangelson         | Brigham Young University  |  Progress in Marine Robotic Perception, Localization, and Mapping for Ecological Monitoring, Infrastructure Inspection, and Defense  | [YouTube](https://youtu.be/gIizcKAIRbY) |  
+| 26/11/2026 | Dr Brano Kusy        | CSIRO  |  *From pixels to reef decisions: AI for marine ecosystem surveillance*  | [YouTube](https://youtu.be/EmELmlSUrS4) |  
+| 21/07/2026 | Assoc Prof Joshua Mangelson         | Brigham Young University  |  *Progress in Marine Robotic Perception, Localization, and Mapping for Ecological Monitoring, Infrastructure Inspection, and Defense*  | [YouTube](https://youtu.be/gIizcKAIRbY) |  
 | 29/06/2026 | Jordan Pierce         | UCSD | *From in-situ to in-silico: A Brief History of Computer Vision and Coral Reef Ecology*   | [YouTube](https://youtu.be/7uMvp0EYbvo) |  
 | 28/05/2026 | Dr Matteo Contini         | Ifremer, Inria and the University of Montpellier  | *Multi-scale mapping of changes in tropical reefs*   | [YouTube](https://youtu.be/5_ZHdDJ8cdY) |  
 | 30/04/2026 | Quick Fire Talks          | QUT Centre for Robotics    | *Quick Fire Talks*   | [YouTube](https://youtu.be/XPU8GA7BlBY) |  
